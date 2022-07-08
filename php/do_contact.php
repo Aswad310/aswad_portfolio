@@ -22,10 +22,6 @@
         else 
         {
             echo "<div style='color: red;'>The server failed to send the message. Please try again later.</div>" ;
-            echo $to."<br>";
-            echo $subject."<br>";
-            echo $message."<br>";
-            echo $headers."<br>";
         }
     }
 ?>

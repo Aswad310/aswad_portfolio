@@ -19,7 +19,7 @@
   <!-- header section starts  -->
   <header class="header">
     <a href="#" title="Logo">
-      <img src="images/aswad_purple.png" alt="aswad ali" class="img-responsive">
+      <img src="images/aswad_purple.svg" alt="aswad ali" class="img-responsive">
     </a>
 
     <div class="fas fa-bars"></div>

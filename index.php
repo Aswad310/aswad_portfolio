@@ -12,7 +12,7 @@
 
   <title>Aswad Ali | Portfolio</title>
 
-  <link rel="shortcut icon" href="images/aswad_fav.png" class="fav">
+  <link rel="shortcut icon" href="images/aswad_fav.svg" class="fav">
 </head>
 
 <body>

@@ -285,7 +285,7 @@
         <div class="accordion">
           <div class="accordion-header">
             <span>+</span>
-            <h3>is it seo freindly?</h3>
+            <h3>is it seo friendly?</h3>
           </div>
           <div class="accordion-body">
             <p>Of course, you want to put your users first. But to get the most out of your website, you want to design and develop your website with users AND search engines in mind.</p>
@@ -302,9 +302,9 @@
     <h1>created by aswadali310 | all rights reserved.</h1>
 
     <div class="icons">
-      <a href="#" class="fab fa-twitter"></a>
-      <a href="#" class="fab fa-linkedin"></a>
-      <a href="#" class="fab fa-github"></a>
+      <a href="twitter.com/aswadali310" class="fab fa-twitter"></a>
+      <a href="www.linkedin.com/in/aswad-ali-0881701b3/" class="fab fa-linkedin"></a>
+      <a href="github.com/Aswad310" class="fab fa-github"></a>
     </div>
   </section>
   <!-- footer section ends -->

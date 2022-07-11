@@ -302,9 +302,9 @@
     <h1>created by aswadali310 | all rights reserved.</h1>
 
     <div class="icons">
-      <a href="twitter.com/aswadali310" class="fab fa-twitter"></a>
-      <a href="www.linkedin.com/in/aswad-ali-0881701b3/" class="fab fa-linkedin"></a>
-      <a href="github.com/Aswad310" class="fab fa-github"></a>
+      <a href="https://twitter.com/aswadali310" target="_blank" class="fab fa-twitter"></a>
+      <a href="https://linkedin.com/in/aswad-ali-0881701b3/" target="_blank" class="fab fa-linkedin"></a>
+      <a href="https://github.com/Aswad310" target="_blank" class="fab fa-github"></a>
     </div>
   </section>
   <!-- footer section ends -->

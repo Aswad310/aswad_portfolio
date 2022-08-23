@@ -15,7 +15,7 @@
 
 ::selection{
   background: #6C5CE7;
-  color: #333;
+  color: rgb(255, 255, 255);
 }
 
 html{
@@ -158,19 +158,20 @@ body{
 
 .home .banner{
   color:#fff;
-  font-size: 5rem;
+  font-size: 4rem;
   text-shadow: 0 .3rem .5rem rgba(0,0,0,.3);
+  margin: 0px 20% ;
 }
 
-.home .slogan{
+/* .home .slogan{
   color:#eee;
   font-size: 2rem;
   font-weight: 400;
-}
+} */
 
 .home button{
   height: 6rem;
-  width: 18rem;
+  width: 14rem;
   background:#fff;
   color: #444;
   cursor: pointer;
@@ -652,7 +653,8 @@ body{
   }
 
   .home .banner{
-    font-size: 4rem;
+    font-size: 3rem;
+    margin: 0px 10px;
   }
 
   .home .slogan{
